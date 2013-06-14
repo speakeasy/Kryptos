@@ -1,7 +1,9 @@
 Kryptos
 =======
 
-This is my PHP OOP code that I used to solve Kryptos K4
+This is my PHP OOP code that I used to solve Kryptos K4.
+
+Okay, so I didn't really solve it but I thought it was pretty cool!
 
 Here is the solution I found:
 
