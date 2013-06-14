@@ -1,0 +1,13 @@
+The following still needs to be implemented and/or revamped:
+
+
+    Accept command line arguments, e.g. php kryp.php -ct OBKRUOXOG -dec KRYPTOS
+    
+    Clean up and restructure code, optimization etc.
+    
+
+Long term goals:
+
+    Implement other classic/historic cypher methods.
+    
+    Build a web interface and port to CodeIgniter.
